@@ -1,7 +1,7 @@
 # SNAM
 This is a codebase for the paper [Sparse Neural Additive Model: Interpretable Deep Learning with Feature Selection via Group Sparsity](https://arxiv.org/pdf/2202.12482.pdf).
 <p align="center">
-  <img width="600" height="350" src="./assets/SNAM_architecture.pdf">
+  <img width="600" height="350" src="./assets/SNAM_architecture.png">
 </p>
 
 ## Highlights
