@@ -1,5 +1,5 @@
 # SNAM
-This is the codebase for our paper: Interpretable Deep Learning with Feature Selection via Group Sparsity.
+This is open-source code for the paper [Sparse Neural Additive Model: Interpretable Deep Learning with Feature Selection via Group Sparsity](https://arxiv.org/pdf/2202.12482.pdf).
 
 ## Highlights
 * We propose an innately interpretable model -- sparse neural additive model (SNAM) -- to empower NAM with feature selection. In particular, SNAM can employ the Group LASSO penalty in a unique way to regularize each sub-network's parameters as one group. Note that we can easily extend to other group sparsity within SNAM, such as the Group SLOPE (see Appendix B.2).
