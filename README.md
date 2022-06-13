@@ -13,8 +13,8 @@ This is a codebase for the paper [Sparse Neural Additive Model: Interpretable De
 * We establish an interesting connection between the LASSO and the SNAM with Group LASSO regularization, showing that the LASSO is indeed a sub-case of SNAM. Building on top of this, we rigorously derive the slow rate and the support recovery of SNAM. We show that SNAM approximates the true model, selects important features in a sample-efficient manner, and identifies individual functions $f_j$ asymptotically.
 * We empirically validate our results and advocate the effectiveness of SNAM via synthetic and real datasets. For example, SNAM can be $3 \times$ faster than SPAM and save half of parameters in NAM, while preserving comparable performance.
 
-## Datasets
-The california housing dataset can be found in [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html). For the COMPAS, We follow the data preprocessing from [this Github](https://github.com/propublica/compas-analysis). People can download the super-conductivity dataset [here](https://archive.ics.uci.edu/ml/datasets/superconductivty+data).
+## Real Datasets
+The california housing dataset can be found in [sklearn.datasets](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html). For the COMPAS, We follow the data preprocessing from [this Github](https://github.com/propublica/compas-analysis). People can download the super-conductivity dataset [here](https://archive.ics.uci.edu/ml/datasets/superconductivty+data). 
 
 ## Citation
 Please cite our paper if you use SNAM in your papers, as follows:
